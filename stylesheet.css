@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MadaniArabic';
+    src: url('MadaniArabic-Regular.woff2') format('woff2'),
+        url('MadaniArabic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
